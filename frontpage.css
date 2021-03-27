@@ -1,0 +1,118 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgba(255, 255, 255, 0.267);
+}
+
+.main{
+    padding: 25px 20px;
+}
+
+.copy-container h1{
+    font-size: 70px;
+    color: goldenrod;
+    text-align: center;
+}
+
+.copy-container img{
+    height: 100px;
+    width: 400px;
+    float: left;
+}
+
+.copy-container h2{
+    font-size: 23px;
+    text-align: left;
+    color: cadetblue;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+}
+
+.copy-container span{
+    font-style: italic;
+    color: brown;
+    float: right;
+    
+    
+}
+
+.copy-container{
+    border-bottom: purple 2px solid;
+    padding-bottom: 15px;
+}
+
+.contents{
+    
+    height: 1000px;
+    margin-top: 50px;
+    border: teal 4px solid ;
+    border-radius: 40px;
+    margin-bottom: 50px;
+    padding-bottom: 10px;
+    
+}
+
+.content-logo{
+    font-size: 45px;
+    text-align: center;
+    padding-bottom: 11px;
+    color: white ;
+    padding-top: 25px;
+}
+
+.content-logo span{
+    padding: 8px 2px;
+    border-radius: 7px;
+    
+}
+
+.content-items1{
+    margin-right: 40px;
+    margin-left: 85px;
+    margin-top: 25px;
+    float: left;
+}
+
+.content-items1:hover{
+    -ms-transform: scale(1.25);
+    -webkit-transform: scale(1.25); 
+    transform: scale(1.25); 
+}
+
+.content-items2{
+    margin-right: 40px;
+    margin-left: 85px;
+    margin-top: 25px;
+    float: left;
+}
+
+.content-items2:hover{
+    -ms-transform: scale(1.25);
+    -webkit-transform: scale(1.25); 
+    transform: scale(1.25); 
+}
+
+.content-items3{
+    margin-right: 40px;
+    margin-left: 85px;
+    margin-top: 25px;
+    float: left;
+}
+
+.content-items3:hover{
+    -ms-transform: scale(1.25);
+    -webkit-transform: scale(1.25); 
+    transform: scale(1.25); 
+}
+
+.contents img{
+    height: 250px;
+    width: 250px;
+    border-radius: 25px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 2px;
+}
+
+
