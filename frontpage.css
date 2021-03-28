@@ -7,6 +7,10 @@ body{
     padding: 25px 20px;
 }
 
+h2{
+    font-weight: lighter;
+}
+
 .copy-container h1{
     font-size: 70px;
     color: goldenrod;
@@ -21,7 +25,8 @@ body{
 }
 
 .copy-container h2{
-    font-size: 23px;
+    font-family: 'BigCaslon', 'TimesNewRoman';
+    font-size: 20px;
     text-align: left;
     color: cadetblue;
     padding-right: 10px;
