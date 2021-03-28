@@ -19,6 +19,7 @@ h2{
     border-style: solid;
     border-color: dimgrey;
     border-radius: 7px;
+    box-shadow: 1px 1px rgb(48, 48, 48) inset;
 }
 
 .dd-content{

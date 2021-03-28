@@ -17,6 +17,7 @@ body{
     height: 100px;
     width: 400px;
     float: left;
+    align-self: center;
 }
 
 .copy-container h2{
